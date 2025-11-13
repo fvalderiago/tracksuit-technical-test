@@ -3,3 +3,5 @@
 .vite
 node_modules
 **/tmp
+.vs
+.vscode
